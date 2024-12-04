@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\agata\Desktop\AiSDproj1_kopia2\AiSDproj1\main.cpp(18,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\agata\Desktop\AiSDproj1_kopia2\AiSDproj1\main.cpp(44,23): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\agata\Desktop\AiSDproj1_kopia2\AiSDproj1\main.cpp(323,34): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\agata\Desktop\AiSDproj1_kopia2\AiSDproj1\main.cpp(335,63): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\agata\Desktop\AiSDproj1_kopia2\AiSDproj1\main.cpp(508,46): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\agata\Desktop\AiSDproj1_kopia2\AiSDproj1\main.cpp(486,18): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+  AiSDproj1.vcxproj -> C:\Users\agata\Desktop\AiSDproj1_kopia2\x64\Debug\AiSDproj1.exe
